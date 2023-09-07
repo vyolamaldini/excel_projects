@@ -1,2 +1,2 @@
-# excel_projects
+# tableau_projects
 A collection of my Excel file and projects.
